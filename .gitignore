@@ -30,8 +30,10 @@ $RECYCLE.BIN/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/etc/
+/[Ee]etc/
 /[Rr]ecordings/
+/[Pp]plugin
+/[Pp]plugins
 /Assets/AssetStoreTools*
 /Assets/_AssetStore
 /Assets/_Plugins
